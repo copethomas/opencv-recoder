@@ -1,0 +1,9 @@
+*
+.*
+*.*
+!*.cpp
+!*.hpp
+!.gitignore
+!*.txt
+!*.md
+Notes.txt
